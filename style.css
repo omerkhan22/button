@@ -1,0 +1,145 @@
+body{
+	text-align: center;
+	background-color: #2c3e50;
+	margin: 0;
+}
+#btn1{
+	color: white;
+	font-size: 17px;
+	border: solid;
+	text-transform: uppercase;
+	font-weight: bold;
+	background-color: #dc4941;
+	border-radius: 10px;
+	border-color: #dc4941;
+	border-width: 2px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 50px;
+	padding-right: 50px; 
+}
+
+#btn2{
+	color: white;
+	font-size: 17px;
+	text-transform: uppercase;
+	font-weight: bold;
+	border: solid;
+	border-radius: 30px;
+	background-color: #1abb9b;
+	border-color: #1abb9b;
+	border-width: 2px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 50px;
+	padding-right: 50px;
+	background-image: url("u.png");
+	background-size: cover;
+}	 
+
+#btn3{
+	color: white;
+	font-size: 17px;
+	text-transform: uppercase;
+	font-weight: bold;
+	border: none;
+	background-color: #3498db;
+	border-radius: 10px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+#btn4{
+	color: white;
+	font-size: 17px;
+	text-transform: uppercase;
+	font-weight: bold;
+	border: none;
+	background-color: #f1c40f;
+	border-radius: 10px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+#btn5{
+	color: white;
+	font-size: 17px;
+	text-transform: uppercase;
+	font-weight: bold;
+	border: solid;
+	background-color: #7c429b;
+	border-color: #7c429b;
+	border-width: 2px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 50px;
+	padding-right: 50px; 
+}
+
+#btn6{
+	color: white;
+	font-size: 17px;
+	text-transform: uppercase;
+	font-weight: bold;
+	border: solid;
+	border-radius: 30px;
+	background-color:  #2dcb70;
+	border-color: #2dcb70;
+	border-width: 2px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.btn{
+	margin-top: 50px;
+	margin-left: 60px;
+	margin-right:60px;
+}
+
+#btn1:hover{
+	background-color: #2c3e50;
+	color: #dc4941;
+}
+
+#btn2:hover{
+	background-color: #2c3e50;
+	color: #1abb9b;
+}
+
+#btn3:hover{
+	background-color: #2c3e50;
+	color: #3498db;
+	border-color:  #3498db;
+	border-style: solid;
+	border-width: 2px;
+}
+
+#btn4:hover{
+	background-color: #2c3e50;
+	color: #f1c40f;
+	border-color: #f1c40f;
+	border-style: solid;
+	border-width: 2px;
+}
+
+#btn5:hover{
+	background-color: #2c3e50;
+	color: #7c429b;
+}
+
+#btn6:hover{
+	background-color: #2c3e50;
+	color: #2dcb70;
+}
+
+.container{
+	background-color: #2c3e50;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
